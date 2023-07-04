@@ -5,7 +5,7 @@ variable "vpc_ip" {
 };
 
 variable "subnet" {
-    description = "Valor da subnet"
+    description = "Valor da subnet - teste"
     type = string
     default = ""
 };
